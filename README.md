@@ -55,6 +55,10 @@ Run the [mini_django.py](https://github.com/readevalprint/mini-django/blob/maste
         from django.core import management
         management.call_command('runserver','0.0.0.0:8000' )
 
+model test
+==========
+
+You can play with models with the self contained app [model_test.py](https://github.com/readevalprint/mini-django/raw/master/model_test.py) script.
 
 Dependencies
 ===========
@@ -75,3 +79,4 @@ As-is. Public Domain. Don't blame me.
 Author
 ======
 Tim Watts (tim@readevalprint.com)
+Jens Diemer (https://github.com/jedie/)
